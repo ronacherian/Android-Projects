@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775006114726",
+    "firebase_url": "https://mytrips-7903f.firebaseio.com",
+    "project_id": "mytrips-7903f",
+    "storage_bucket": "mytrips-7903f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775006114726:android:acb06e8275a8f1b7",
+        "android_client_info": {
+          "package_name": "com.example.roncherian.mytrips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775006114726-ugeejsugn3f9in4s5t78g7stt6v2u44k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roncherian.mytrips",
+            "certificate_hash": "47686a243ca07348b10162a28b007c55d023f5f9"
+          }
+        },
+        {
+          "client_id": "775006114726-gpq4ho41d79eihhocmbl3jgfdvll0clg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5u_qDgOre4Pin2R9-gFQY2Tb27OyHtWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775006114726-gpq4ho41d79eihhocmbl3jgfdvll0clg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
